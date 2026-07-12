@@ -1,19 +1,20 @@
 {
-  "allowed_devices": {
-    "D8:A8:6E:8A:27:AC": "Name 1",
-    "08:71:90:49:E6:6A": "Name 2",
-    "18:60:24:9E:E0:63": "Name 3",
-    "64:51:06:4B:C0:14": "Name 4",
-    "64:00:6A:92:94:46": "Name 5",
-    "CA:19:E6:92:22:A0": "Name 6",
-    "60:F6:77:8A:C4:F0": "Name 7",
-    "C0:18:85:D1:63:77": "Name 8",
-    "DC:1B:A1:FD:BA:F5": "tARIQ 9",
-    "54:05:DB:0D:8A:D8": "Name 10",
-    "F4:D1:08:6B:BF:B5": "Name 11",
-    "XX:XX:XX:XX:XX:XX": "Name 12",
-    "XX:XX:XX:XX:XX:XX": "Name 13",
-    "XX:XX:XX:XX:XX:XX": "Name 14",
-    "XX:XX:XX:XX:XX:XX": "Name 15"
-  }
+  "allowed_macs": [
+    "D8:A8:6E:8A:27:AC",
+    "08:71:90:49:E6:6A",
+    "18:60:24:9E:E0:63",
+    "64:51:06:4B:C0:14",
+    "64:00:6A:92:94:46",
+    "CA:19:E6:92:22:A0",
+    "60:F6:77:8A:C4:F0",
+    "C0:18:85:D1:63:77",
+    "DC:1B:A1:FD:BA:F5",
+    "54:05:DB:0D:8A:D8",
+    "F4:D1:08:6B:BF:B5",
+    "XX:XX:XX:XX:XX:XX",
+    "XX:XX:XX:XX:XX:XX",
+    "XX:XX:XX:XX:XX:XX",
+    "XX:XX:XX:XX:XX:XX"
+  ]
 }
+  isko aese bnao ke inke agge names ki jgah ho 
